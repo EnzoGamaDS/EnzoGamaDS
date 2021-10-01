@@ -3,7 +3,7 @@
 - 🌱 Atualmente estudo Java + Angular
 - 💬 Email: gamaenzosw@hotmail.com / telefone : (71) 8864-0671
 - 😄 Pronouns: Ele / dele
-- ⚡ Fun fact: Java, Flutter, Kotiln e desenvolvimento mobile.
+- ⚡ Fun fact: Java e Kotiln.
 
 ##
 
