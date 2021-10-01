@@ -1,6 +1,6 @@
 ### Olá ! Meu nome é Enzo Gama
 
-- 🌱 Atualmente estudo MySQL
+- 🌱 Atualmente estudo Java + Angular
 - 💬 Email: gamaenzosw@hotmail.com / telefone : (71) 8864-0671
 - 😄 Pronouns: Ele / dele
 - ⚡ Fun fact: Java, Flutter, Kotiln e desenvolvimento mobile.
