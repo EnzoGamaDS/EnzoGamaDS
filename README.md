@@ -1,9 +1,9 @@
 ### Olá ! Meu nome é Enzo Gama
 
-- 🌱 Atualmente estudo PHP+Laravel
+- 🌱 Atualmente estudo Laravel e Bootstrap.
 - 💬 Email: enzo.santos@ucsal.edu.br / telefone : (71) 8864-0671 
 - 😄 Pronouns: Ele / dele
-- ⚡ Fun fact: Dessenvolvimento web.
+- ⚡ Fun fact: Dessenvolvimento web, PHP e Laravel.
 
 ##
 
