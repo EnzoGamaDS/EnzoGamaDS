@@ -1,9 +1,8 @@
 ### Olá ! Meu nome é Enzo Gama
 
-- 🌱 Atualmente estudo Laravel e Bootstrap.
-- 💬 Email: enzo.santos@ucsal.edu.br / telefone : (71) 8864-0671 
-- 😄 Pronouns: Ele / dele
-- ⚡ Fun fact: Dessenvolvimento web, PHP e Laravel.
+- 🌱 Atualmente estudo Laravel.
+- 💬 Contato: gamaenzosw@hotmail.com / telefone : (71) 9 8864-0671 
+- ⚡ Foco: Dessenvolvimento FullStack usando Laravel e VueJs.
 
 ##
 
@@ -16,12 +15,11 @@
   ##
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Enzo-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Enzo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Enzo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Enzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Enzo-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Enzo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Enzo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Enzo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Enzo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Enzo-post" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
