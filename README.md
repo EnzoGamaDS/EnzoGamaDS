@@ -1,8 +1,8 @@
 ### Olá ! Meu nome é Enzo Gama
 
-- 🌱 Atualmente estudo Microservices.
+- 🌱 Atualmente estudo Engenharia de softwares.
 - 💬 Contato: gamaenzosw@hotmail.com / telefone : (71) 9 8864-0671 
-- ⚡ Foco: Arquitetura de software.
+- ⚡ Foco: desenvolvimento web.
 - 👨‍💻 Trabalho: Atuo com Laravel e VueJS
 
 ##
