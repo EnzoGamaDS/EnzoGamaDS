@@ -1,12 +1,12 @@
-### Olá ! Meu nome é Enzo Gama
+###  Apaixonado por Flutter 💙
 
 - 🌱 Curso: Engenharia de softwares.
 - 💬 Contato: gamaenzosw@hotmail.com / telefone : (71) 9 8864-0671 
 - ⚡ Foco: desenvolvimento mobile.
-- 👨‍💻 Trabalho: Atuo com Laravel.
+- 👨‍💻 Trabalho: Atuo com PHP e Laravel.
 
 ##
-
+ 
  <div>
   <a href="https://github.com/EnzoGamaDS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoGamaDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
