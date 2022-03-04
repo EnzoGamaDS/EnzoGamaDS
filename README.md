@@ -2,7 +2,7 @@
 
 - 🌱 Curso: Engenharia de softwares.
 - 💬 Contato: gamaenzosw@hotmail.com / telefone : (71) 9 8864-0671 
-- ⚡ Foco: desenvolvimento mobile.
+- ⚡ Foco: desenvolvimento mobile com flutter.
 - 👨‍💻 Trabalho: Atuo com PHP e Laravel.
 
 ##
