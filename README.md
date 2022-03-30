@@ -1,8 +1,7 @@
-###  Apaixonado por mobbile 💙
+### Dev PHP - Laravel 
 
 - 🌱 Curso: Engenharia de softwares.
 - 💬 Contato: gamaenzosw@hotmail.com / telefone : (71) 9 8864-0671 
-- ⚡ Foco: Java SpringBoot.
 - 👨‍💻 Trabalho: Atuo com PHP e Laravel.
 
 ##
