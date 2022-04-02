@@ -1,4 +1,4 @@
-### Developer PHP - Laravel 
+### Developer PHP
 
 - 🌱 Study: software engineering at UCSAL.
 - 💬 Contacts: enzo.santos@ucsal.edu.br / telefone : (71) 9 8864-0671 
