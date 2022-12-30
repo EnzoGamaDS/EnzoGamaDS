@@ -1,7 +1,7 @@
 ### Developer PHP
 
 - 🌱 Study: software engineering at the Catholic University of Salvador.
-- 💬 Contacts: enzo.santos@ucsal.edu.br / telefone : (71) 9 8864-0671 
+- 💬 Contacts: enzo.santos@ucsal.edu.br / Phone number : (71) 9 8864-0671 
 - 👨‍💻 Work: PHP and Laravel framework.
 
 ##
