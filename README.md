@@ -2,6 +2,7 @@
 
 - 🌱 Study: software engineering at the Catholic University of Salvador.
 - 💬 Contacts: enzo.gamads@gmail.com / Phone number : (71) 9 8864-0671 
+- 🎮 Discord : EnzoGamaDS#1709
 - 👨‍💻 Work: PHP and Laravel framework.
 
 ##
