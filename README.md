@@ -34,6 +34,4 @@
   <a href="https://www.linkedin.com/in/enzo-gama-15b203212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5571988640671" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%2BB741?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
